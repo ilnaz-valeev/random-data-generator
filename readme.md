@@ -10,11 +10,6 @@
 npm install random-data-generator
 
 
-
-
-
-
-
 const randomData = require('random-data-generator');
 
 console.log(randomData.getRandomName()); // Random name
