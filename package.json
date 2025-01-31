@@ -1,12 +1,15 @@
 {
   "name": "random-data-generator",
   "version": "1.0.0",
+  "description": "A simple library for generating random data like names and numbers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilnaz-valeev/random-data-generator.git"
+  }
 }
