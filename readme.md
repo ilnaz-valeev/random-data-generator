@@ -7,10 +7,10 @@
 Вы можете установить библиотеку с помощью npm:
 
 ```bash
-npm install random-data-generator
+npm install random-data-generator-iln
 
 
-const randomData = require('random-data-generator');
+const randomData = require('random-data-generator-iln');
 
 console.log(randomData.getRandomName()); // Random name
 console.log(randomData.getRandomNumber(1, 100)); // Random number between 1 and 100
